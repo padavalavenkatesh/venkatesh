@@ -3,8 +3,7 @@ function maxnum(a, b) {
     console.log(`${b} is maximum`);
   } else if (a > b) {
     console.log(`${b} is minimum`);
-  } else if (a === b);
-  {
+  } else {
     console.log(`${a} is equal ${b}`);
   }
 }
